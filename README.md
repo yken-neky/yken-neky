@@ -1,6 +1,11 @@
-- 👋 Hi, I’m Yan Luis González Palomo (@yken-neky)
-- 👀 I’m interested in Cybersecurity and his branches. 
-- 🌱 I’m currently learning about databases management systems.
+- 👋 Hola, mi nombre es Yan Luis González Palomo (@yken-neky)
+- 👀 Estudio Ingeniería en Ciberseguridad en la Universidad de las Ciencias Informáticas de la Habana, Cuba. 
+- 🌱 Actualmente me encuentro aprendiendo sobre ciberseguridad en sistemas gestores de bases de datos para mi trabajo de culminación de estudios. 
+- 📘 Trabajo en Empresa de Telecomunicaciones de Cuba S.A., ETECSA, como especialista de ciberseguridad. 
+- 🥇 Aprendiendo en tiempo parcial temas de gestión empresarial y desarrollo de software comercial. 
+- 🏎️ Hobby ? Creer que soy Max Verstappen y perder la cuenta en la innumerable cantidad de veces que veo el hermoso "Has muerto" en Dark Souls: Prepare to Die Edition
+
+**PRAISE THE SUN** ☀️
 
 <!---
 yken-neky/yken-neky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
